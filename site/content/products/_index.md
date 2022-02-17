@@ -4,10 +4,7 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  While many people think of physical accessibility few think of the challenges with digital accessibility. In my work with Bitstream in 1998/99 with Dr Gill at the RNIB, where we created the first Typeface for visually impaired people as part of the UKs Digital TV group, I became aware of just how many people there were with a visual impairment. Fast forward through to 2007 I met a great UK software company called Sitemorse (www.sitemorse.com) who help companies understand how compliant and useable their websites really are and have created benchmarks and enabled checking against WCAG standards that many UK Public Sector bodies rely on today.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
