@@ -5,11 +5,11 @@ values:
   - heading: "Shade-grown coffee"
     text: >
       Digital Accessibility is supporting those that are visually impaired 
-    imageUrl: "/img/sitemorse.jpg"
+    imageUrl: "/img/sitemorse.png"
   - heading: "A or AA "
     text: >
       Many companies talk about being AA compliant
-    imageUrl: "/img/sitemorse..jpg"
+    imageUrl: "/img/sitemorse.png"
   - heading: "Functional Tests "
     text: >
       See Chartered Institute work
