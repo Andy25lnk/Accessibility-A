@@ -1,7 +1,7 @@
 ---
 title: "Inclusivity and Accessibility"
 subtitle: Ensure your Website and Social sites are usable by the Visually Impaired and meet corporate and Government regulations and expectations
-image: /img/sitemorse.png
+# image: /img/sitemorse.png
 blurb:
     heading: Why Sitemorse?
     text: "Accessibility."
